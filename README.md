@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Nick
+---
+I'm a [NASA Hubble research fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2023-nhfp-fellows#section-0067b060-4e8b-412b-ac69-c5a7a35e2e6b) based at MIT at the [Kavli Institute for Astrophysics](https://space.mit.edu). I build end-to-end machine learning systems for large-scale, real-world data (e.g. noisy, messy, unlabeled) at the intersection of image, time-series, and radio waveform datasets. I am particularly interested in leveraging advances in deep learning for building robust and interpretable forward models (see my current work on the [BayesLIM project](https://nkern.github.io/bayeslim/)).
+
+See below for some of my open-sourced software contributions, and see [here](https://nkern.github.io/research/) for some highlights of my research.
+
+
 
 <!--
 **nkern/nkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
